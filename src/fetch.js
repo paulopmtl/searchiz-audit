@@ -1,5 +1,5 @@
 const MAX_BYTES = 3_000_000;
-export const USER_AGENT = "Mozilla/5.0 (compatible; searchiz-audit/1.0; +https://github.com/paulopmtl/searchiz-audit)";
+export const USER_AGENT = "Mozilla/5.0 (compatible; searchiz-audit/1.0; +https://github.com/searchiz/searchiz-audit)";
 
 // One GET with a timeout and a size cap. Never throws: a failure is returned
 // as status null so a check can report "could not read", not "missing".

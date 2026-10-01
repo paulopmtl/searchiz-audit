@@ -10,8 +10,8 @@
   "engines": { "node": ">=20" },
   "scripts": { "test": "node --test" },
   "keywords": ["geo", "aeo", "ai search", "seo audit", "robots.txt", "structured data", "chatgpt", "perplexity"],
-  "homepage": "https://github.com/paulopmtl/searchiz-audit",
-  "repository": { "type": "git", "url": "git+https://github.com/paulopmtl/searchiz-audit.git" },
+  "homepage": "https://github.com/searchiz/searchiz-audit",
+  "repository": { "type": "git", "url": "git+https://github.com/searchiz/searchiz-audit.git" },
   "license": "MIT",
   "author": "Searchiz <support@searchiz.com> (https://searchiz.com)"
 }

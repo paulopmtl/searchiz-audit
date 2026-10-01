@@ -5,8 +5,8 @@ Deterministic checks, ready-made fixes, and, for every check, how the pages
 AI answers actually cite do on it.
 
 ```sh
-npx github:paulopmtl/searchiz-audit example.com
-npx github:paulopmtl/searchiz-audit example.com/pricing --format json --out audit.json --diffs ./fixes
+npx github:searchiz/searchiz-audit example.com
+npx github:searchiz/searchiz-audit example.com/pricing --format json --out audit.json --diffs ./fixes
 ```
 
 No account and no telemetry: the only requests go to the site you name.
@@ -41,7 +41,7 @@ citation.
 With `--diffs <dir>` the audit writes what it can prepare:
 
 - `robots.txt.patch` lets the blocked AI search crawlers in, checked with the
-  same robots rules as [searchiz-bots](https://github.com/paulopmtl/searchiz-bots);
+  same robots rules as [searchiz-bots](https://github.com/searchiz/searchiz-bots);
 - `structured-data.html`, `canonical.html`, `meta-description.html`: snippets.
   Anything only you know is marked `REPLACE`; never publish a placeholder.
 
@@ -49,7 +49,7 @@ Example output: [examples/searchiz.com.md](examples/searchiz.com.md).
 
 ## Use it from an agent
 
-[searchiz-skill](https://github.com/paulopmtl/searchiz-skill) runs this audit
+[searchiz-skill](https://github.com/searchiz/searchiz-skill) runs this audit
 from Claude Code, Codex, Cursor or OpenClaw and opens a pull request with the
 fixes.
 
