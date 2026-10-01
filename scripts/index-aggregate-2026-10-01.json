@@ -1,0 +1,291 @@
+{
+  "source": "Searchiz public AI recommendation index",
+  "method": "https://searchiz.com/method",
+  "period": {
+    "from": "2026-09-22",
+    "to": "2026-10-01"
+  },
+  "generated_at": "2026-10-01T06:09:46Z",
+  "valid_answers": 3465,
+  "engines": {
+    "gemini": 1571,
+    "chatgpt": 1894
+  },
+  "answers_citing_any_source": 0.5206,
+  "answers_citing_kind": {
+    "directory": 0.2113,
+    "wedding": 0.013,
+    "reviews": 0.0003,
+    "social": 0.0,
+    "community": 0.0017,
+    "maps": 0.0,
+    "marketplace": 0.0,
+    "reference": 0.0003,
+    "media": 0.0035,
+    "website": 0.4306
+  },
+  "top_cited_urls": [
+    {
+      "url": "https://krtaxes.com/news/best-cpa-firms-phoenix-az?utm_source=chatgpt.com",
+      "answers": 4
+    },
+    {
+      "url": "https://www.bestinhood.com/new-york/auto-services/best-auto-detailing-in-new-york/?utm_source=chatgpt.com",
+      "answers": 4
+    },
+    {
+      "url": "https://www.aaha.org/for-pet-parents/find-an-aaha-accredited-animal-hospital-near-me/?utm_source=chatgpt.com",
+      "answers": 3
+    },
+    {
+      "url": "https://www.expertise.com/finance/accountant-cpa/new-york/brooklyn?utm_source=chatgpt.com",
+      "answers": 3
+    },
+    {
+      "url": "https://www.movebuddha.com/movers/tx/houston/?utm_source=chatgpt.com",
+      "answers": 3
+    },
+    {
+      "url": "https://acrepair.ac/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://animalfriendsos.com/find/best-veterinary/phoenix?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://arizonaroofingcompanies.com/phoenix/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://baltimoretoprated.com/veterinary/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://bestcharlotte.com/hair-salons/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://bestcharlotte.com/orthodontists/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://bestcharlotte.com/physical-therapists/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://bestcharlotte.com/property-management-companies/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://bestcharlotte.com/tutoring-centers/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://bestcharlotte.com/wedding-venues/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://biglove.to/hair-salons/minneapolis/google-reviews-guide?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://birdeye.com/orkin-173230592505910?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://bostonbar.org/lawyer-referral/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://charlottetoprated.com/veterinary/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://chiropractordirectories.com/california/san-diego?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://cityvetted.com/best/best-auto-repair-dallas?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://cityvetted.com/best/best-car-detailing-houston?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://cityvetted.com/best/best-flooring-contractors-orlando?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://cityvetted.com/best/best-house-painters-tampa?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://cityvetted.com/best/best-window-installation-houston?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://comparetreeservices.com/ga/atlanta/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://dental.me/md/baltimore/?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://dentistrydirectories.com/massachusetts/boston?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://dentistrydirectories.com/michigan/detroit?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://dereksdetail.com/blog/best-auto-detailers-seattle-honest-guide?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://dfwprofessionals.com/best/landscaper?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://dfwprofessionals.com/dallas/flooring-contractor?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://dirttrades.com/finds/roofers/dallas?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://exterminatorguild.com/us/mo/st-louis?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://findadentist.ada.org/dentists-by-state/california/San%20Francisco/San%20Francisco?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://finddetailer.com/colorado/denver?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://fldaycarefinder.com/tampa?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://floridaroofingdirectory.com/blog/best-roofing-companies-orlando-florida?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://foreverlyweddings.com/wedding-venues/minneapolis-mn?utm_source=chatgpt.com",
+      "answers": 2
+    },
+    {
+      "url": "https://garagedoorbaltimore.com/reviews?utm_source=chatgpt.com",
+      "answers": 2
+    }
+  ],
+  "top_cited_domains": [
+    {
+      "domain": "expertise.com",
+      "answers": 467
+    },
+    {
+      "domain": "reviews.birdeye.com",
+      "answers": 202
+    },
+    {
+      "domain": "angi.com",
+      "answers": 191
+    },
+    {
+      "domain": "threebestrated.com",
+      "answers": 158
+    },
+    {
+      "domain": "bestinhood.com",
+      "answers": 122
+    },
+    {
+      "domain": "yably.com",
+      "answers": 119
+    },
+    {
+      "domain": "bbb.org",
+      "answers": 93
+    },
+    {
+      "domain": "bestprosintown.com",
+      "answers": 89
+    },
+    {
+      "domain": "thumbtack.com",
+      "answers": 69
+    },
+    {
+      "domain": "consumeraffairs.com",
+      "answers": 65
+    },
+    {
+      "domain": "trustanalytica.org",
+      "answers": 52
+    },
+    {
+      "domain": "homeadvisor.com",
+      "answers": 51
+    },
+    {
+      "domain": "movebuddha.com",
+      "answers": 47
+    },
+    {
+      "domain": "houzz.com",
+      "answers": 42
+    },
+    {
+      "domain": "psychologytoday.com",
+      "answers": 42
+    },
+    {
+      "domain": "checkbook.org",
+      "answers": 40
+    },
+    {
+      "domain": "weddingwire.com",
+      "answers": 35
+    },
+    {
+      "domain": "healthgrades.com",
+      "answers": 31
+    },
+    {
+      "domain": "nationalorthodonticregistry.com",
+      "answers": 29
+    },
+    {
+      "domain": "profindr.com",
+      "answers": 29
+    },
+    {
+      "domain": "zillow.com",
+      "answers": 28
+    },
+    {
+      "domain": "restaurantji.com",
+      "answers": 27
+    },
+    {
+      "domain": "zocdoc.com",
+      "answers": 25
+    },
+    {
+      "domain": "poolpad.com",
+      "answers": 24
+    },
+    {
+      "domain": "tripadvisor.com",
+      "answers": 24
+    }
+  ]
+}

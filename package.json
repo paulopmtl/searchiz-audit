@@ -1,0 +1,17 @@
+{
+  "name": "searchiz-audit",
+  "version": "1.0.0",
+  "description": "Can AI search read your site and tell who you are? Deterministic checks, ready-made fixes, and evidence from the pages AI answers actually cite.",
+  "type": "module",
+  "main": "src/audit.js",
+  "exports": { ".": "./src/audit.js" },
+  "bin": { "searchiz-audit": "bin/searchiz-audit.js" },
+  "files": ["src", "bin", "evidence", "README.md", "LICENSE"],
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test" },
+  "keywords": ["geo", "aeo", "ai search", "seo audit", "robots.txt", "structured data", "chatgpt", "perplexity"],
+  "homepage": "https://github.com/paulopmtl/searchiz-audit",
+  "repository": { "type": "git", "url": "git+https://github.com/paulopmtl/searchiz-audit.git" },
+  "license": "MIT",
+  "author": "Searchiz <support@searchiz.com> (https://searchiz.com)"
+}

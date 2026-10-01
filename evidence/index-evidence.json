@@ -1,0 +1,192 @@
+{
+  "source": "Searchiz public AI recommendation index",
+  "method": "https://searchiz.com/method",
+  "period": {
+    "from": "2026-09-22",
+    "to": "2026-10-01"
+  },
+  "generated_at": "2026-10-01T06:09:46Z",
+  "valid_answers": 3465,
+  "engines": {
+    "gemini": 1571,
+    "chatgpt": 1894
+  },
+  "answers_citing_any_source": 0.5206,
+  "answers_citing_kind": {
+    "directory": 0.2113,
+    "wedding": 0.013,
+    "reviews": 0.0003,
+    "social": 0,
+    "community": 0.0017,
+    "maps": 0,
+    "marketplace": 0,
+    "reference": 0.0003,
+    "media": 0.0035,
+    "website": 0.4306
+  },
+  "top_cited_domains": [
+    {
+      "domain": "expertise.com",
+      "answers": 467
+    },
+    {
+      "domain": "reviews.birdeye.com",
+      "answers": 202
+    },
+    {
+      "domain": "angi.com",
+      "answers": 191
+    },
+    {
+      "domain": "threebestrated.com",
+      "answers": 158
+    },
+    {
+      "domain": "bestinhood.com",
+      "answers": 122
+    },
+    {
+      "domain": "yably.com",
+      "answers": 119
+    },
+    {
+      "domain": "bbb.org",
+      "answers": 93
+    },
+    {
+      "domain": "bestprosintown.com",
+      "answers": 89
+    },
+    {
+      "domain": "thumbtack.com",
+      "answers": 69
+    },
+    {
+      "domain": "consumeraffairs.com",
+      "answers": 65
+    },
+    {
+      "domain": "trustanalytica.org",
+      "answers": 52
+    },
+    {
+      "domain": "homeadvisor.com",
+      "answers": 51
+    },
+    {
+      "domain": "movebuddha.com",
+      "answers": 47
+    },
+    {
+      "domain": "houzz.com",
+      "answers": 42
+    },
+    {
+      "domain": "psychologytoday.com",
+      "answers": 42
+    },
+    {
+      "domain": "checkbook.org",
+      "answers": 40
+    },
+    {
+      "domain": "weddingwire.com",
+      "answers": 35
+    },
+    {
+      "domain": "healthgrades.com",
+      "answers": 31
+    },
+    {
+      "domain": "nationalorthodonticregistry.com",
+      "answers": 29
+    },
+    {
+      "domain": "profindr.com",
+      "answers": 29
+    },
+    {
+      "domain": "zillow.com",
+      "answers": 28
+    },
+    {
+      "domain": "restaurantji.com",
+      "answers": 27
+    },
+    {
+      "domain": "zocdoc.com",
+      "answers": 25
+    },
+    {
+      "domain": "poolpad.com",
+      "answers": 24
+    },
+    {
+      "domain": "tripadvisor.com",
+      "answers": 24
+    }
+  ],
+  "cited_pages_read": 32,
+  "checks": {
+    "search_crawlers": {
+      "pages": 32,
+      "pass_rate": 1,
+      "checked_on": "2026-10-01"
+    },
+    "sitemap": {
+      "pages": 32,
+      "pass_rate": 1,
+      "checked_on": "2026-10-01"
+    },
+    "page_reachable": {
+      "pages": 32,
+      "pass_rate": 1,
+      "checked_on": "2026-10-01"
+    },
+    "https": {
+      "pages": 32,
+      "pass_rate": 1,
+      "checked_on": "2026-10-01"
+    },
+    "indexable": {
+      "pages": 32,
+      "pass_rate": 0.97,
+      "checked_on": "2026-10-01"
+    },
+    "canonical": {
+      "pages": 32,
+      "pass_rate": 0.97,
+      "checked_on": "2026-10-01"
+    },
+    "structured_data": {
+      "pages": 32,
+      "pass_rate": 0.69,
+      "checked_on": "2026-10-01"
+    },
+    "single_h1": {
+      "pages": 32,
+      "pass_rate": 1,
+      "checked_on": "2026-10-01"
+    },
+    "title": {
+      "pages": 32,
+      "pass_rate": 0.75,
+      "checked_on": "2026-10-01"
+    },
+    "meta_description": {
+      "pages": 32,
+      "pass_rate": 0.72,
+      "checked_on": "2026-10-01"
+    },
+    "answers_questions": {
+      "pages": 32,
+      "pass_rate": 0.69,
+      "checked_on": "2026-10-01"
+    },
+    "content_depth": {
+      "pages": 32,
+      "pass_rate": 1,
+      "checked_on": "2026-10-01"
+    }
+  }
+}
